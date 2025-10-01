@@ -529,3 +529,5 @@ if __name__ == "__main__":
 # Execution:
 #   streamlit run app.py
 # The expected CSV by default is ./titanic_clean.csv (or upload your own CSV in the sidebar)
+
+#Inicialir

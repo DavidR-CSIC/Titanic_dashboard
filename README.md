@@ -14,6 +14,13 @@ Contrato del proyecto (inputs / outputs / criterios de éxito):
 - Criterios de éxito: la app debe permitir filtrar datos, generar las visualizaciones principales y exportar los datos filtrados sin errores evidentes.
 
 ---
+## 🌐 Acceso a la aplicación
+
+📱 **Aplicación en línea**: [https://titanicdashboard-davidrodriguezcianca.streamlit.app/](https://titanicdashboard-davidrodriguezcianca.streamlit.app/)
+
+Puedes acceder directamente al dashboard a través del enlace anterior, o ejecutarlo localmente siguiendo las instrucciones en la sección [Cómo ejecutar la aplicación](#️-cómo-ejecutar-la-aplicación).
+
+---
 ## 🧭 Estructura del dashboard (secciones en `app.py`)
 
 La aplicación está organizada en cuatro pestañas principales, que reflejan las acciones más relevantes en un flujo de EDA:
